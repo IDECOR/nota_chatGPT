@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/cambiador_valor" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
